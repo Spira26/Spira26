@@ -3,7 +3,7 @@
 | Welcome to the my profile 👋  | Привествую на своем профиле 👋 |
 |:---------:|:---------:|
 |<b>Info</b>|<b>Languages</b>|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spira26&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spira26&theme=github_dark)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spira26&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spira26&theme=github_dark)|
 | 👇 Connect with me: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Для связи со мной: 👇 |👇 My creativity &nbsp; &nbsp; &nbsp;  Мое творчество 👇|
 |<a href="https://t.me/Spira26" target="_blank">![telegram](https://img.shields.io/badge/telegram-101511?style=for-the-badge&logo=telegram&logoColor=white)</a> &nbsp;&nbsp;&nbsp;<a href="https://vk.com/spira26" target="_blank">![vk](https://img.shields.io/badge/Vk-101511?style=for-the-badge&logo=vk&logoColor=white)</a>|<a href="https://www.instagram.com/spira266/" target="_blank">![instagramm](https://img.shields.io/badge/insta-101511?style=for-the-badge&logo=instagram&logoColor=white)</a> &nbsp;&nbsp;&nbsp; |
 
