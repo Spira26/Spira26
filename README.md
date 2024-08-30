@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230366D6&size=25&duration=4500&center=true&vCenter=true&width=900&lines=%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B8%D0%B9+Frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230366D6&size=25&duration=4500&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 | Welcome to the my profile 👋  | Привествую на своем профиле 👋 |
 |:---------:|:---------:|
